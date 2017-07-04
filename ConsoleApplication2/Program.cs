@@ -11,7 +11,7 @@ namespace ConsoleApplication2
         static void Main(string[] args)
         {
             int test;
-            test = 1;
+            test = 2;
             if (test == 1)
             {
                 test = 2;
