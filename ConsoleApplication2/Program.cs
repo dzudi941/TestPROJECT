@@ -15,6 +15,7 @@ namespace ConsoleApplication2
             if (test == 1)
             {
                 test = 2;
+                test += 5;
             }
         }
     }
