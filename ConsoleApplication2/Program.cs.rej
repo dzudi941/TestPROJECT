@@ -1,0 +1,14 @@
+diff a/ConsoleApplication2/Program.cs b/ConsoleApplication2/Program.cs	(rejected hunks)
+@@ -27,9 +27,12 @@
+                  test = 12;
+                  test = 13;
+                  test = 14;
+++<<<<<<< HEAD
+ +                test = 15;
+ +                test = 17;
+ +                test = 16;
+++=======
+++>>>>>>> parent of b9b28aa... test 9
+              }
+          }
+      }
