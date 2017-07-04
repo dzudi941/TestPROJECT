@@ -21,6 +21,7 @@ namespace ConsoleApplication2
                 test = 5;
                 test = 6;
                 test = 77;
+                test = 99;
             }
         }
     }
