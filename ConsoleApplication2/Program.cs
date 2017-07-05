@@ -33,6 +33,7 @@ namespace ConsoleApplication2
                 test =12312;
                 test = 18;
                 test = 123132;
+                test = 19;
             }
         }
     }
